@@ -1,5 +1,7 @@
 # Tic Tac Toe Game
 
+Play here : https://tic-tac-toe-game-one-delta.vercel.app/
+
 A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 ## Features
